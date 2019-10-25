@@ -9,3 +9,5 @@ hello.A
 hello.a
 hello.B
 hello.master
+
+hello.c
